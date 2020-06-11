@@ -1,0 +1,41 @@
+#include<studio.h>
+main ()
+{
+  int num=0;
+  printf("enter Ur number to get food");
+  scanf("%d",&num);
+   
+  switch (num)
+     
+    case1:
+         Printf ("Food item is pizza\n");
+          Printf("price 239");
+            break;
+
+
+
+    case2:
+         Printf ("Food item is burger\n");
+          Printf("price 129");
+            
+             break;
+
+    case3:
+         Printf ("Food item is pasta\n");
+          Printf("price 179");
+            break;
+
+
+    case4:
+         Printf ("Food item is french fries\n");
+          Printf("price 99");
+             break;
+
+
+    case5:
+         Printf ("Food item is sandwich\n");
+          Printf("price 149");
+            
+             break;
+
+}
